@@ -1,5 +1,5 @@
 class HalloWereld{
 	public static void main(String[] args){
-		System.out.println("HalloWereld");
+		System.out.println("HalloWereldNogEenKeer");
 	}
 }
